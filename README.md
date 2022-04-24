@@ -1,10 +1,10 @@
-# SystemInfo - a hardware information tool for Windows
+# Xhw64 - a hardware information tool for Windows
 
 SystemInfo enables you to view information about the hardware components of your computer. 
 <p align="center">
 <img src="https://i.imgur.com/vmmwSer.png">
 </p>
-<hr />
+<hr/>
 
 The program allows you to take screenshots of the client area and export hardware information in the following formats:
 - HTML (with CSS)
@@ -20,13 +20,19 @@ Supports the following operating systems:
 
 Might also work on modern Windows Server systems, but I didn't test it.
 
-The program is written in C/C++ and uses barebones WindowsAPI for its GUI.
+The program is written in C/C++ and uses barebones WindowsAPI for it's GUI.
 
 This program is free software.
 
-<a href="https://github.com/CherryPill/system_info/releases">Download</a>
+<a href="https://github.com/ssabeva/Xhw64/tags">Download</a>
 
 ***
+## License
 
-DISCLAIMER: THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
-HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
